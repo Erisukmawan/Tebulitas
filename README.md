@@ -1,5 +1,6 @@
 # Tebulitas - Tabull Education for disabilitias
 ### Tentang Kami
+<p>Tebulitas adalah aplikasi inovatif yang dirancang untuk memberdayakan siswa penyandang disabilitas dalam perjalanan akademis mereka. Misi kami adalah menghilangkan hambatan terhadap pendidikan dengan menyediakan platform ramah pengguna yang menghubungkan siswa dengan tutor yang berdedikasi, memastikan pengalaman belajar yang dipersonalisasi dan dapat diakses.</p>
 <hr>
 
 - Tampilan Landing Page
